@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamshaid2610
-- 👀 I’m interested in Machine Learning , Data Science and Web Development
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Web Scraping, and Web Automation projects
+- 👀 I’m interested in Machine Learning, Data Science and Web Scraping
+- 🌱 I’m currently looking for a role in the field of Data Science.
+- 💞️ I’m looking to collaborate on Web Scraping, Web Automation and Machine Learning projects
 - 📫 How to reach me jamshaid2610@gmail.com
 
 <!---
